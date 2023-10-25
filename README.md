@@ -1,4 +1,4 @@
-# OIBSIP_task_2
+# Number Guessing Game
 TASK -2 : NUMBER GUESSING GAME
 I have completed Task-2 (Number Guessing Game) in Java Programming.
 I have tried to make this Number Guessing Game a little bit different by adding GUI and AWT to the Program.
